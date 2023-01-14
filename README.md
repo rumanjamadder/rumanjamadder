@@ -1,7 +1,6 @@
-(https://pbs.twimg.com/profile_banners/826821913238343680/1673686791/600x200)
 ### Hi there 👋, I'm Ruman Jamadder Rabby
 #### Front End Web Developer
-![Front End Web Developer]
+![Front End Web Developer](https://pbs.twimg.com/profile_banners/826821913238343680/1673686791/600x200)
 
 I'm a Front End Web Developer who is obsessed with creating error-free websites that provide 100% client satisfaction. I am passionate about learning and sharing my knowledge with as many people as possible. I enjoy solving real-world problems. I am strategic, goal-oriented, and work with an end goal in mind at all times. I've built hundreds of websites for my clients over the years. I take pride in producing high-quality work and communicating effectively. I use ReactJS and JavaScript.
 
